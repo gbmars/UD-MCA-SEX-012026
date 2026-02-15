@@ -5,3 +5,11 @@ Semestre: 3°
 Bairro: Bosque Maia
 Se Trabalha: Trabalo com suporte de software 
 Objetivo: Crescer na área 
+
+Nome: João Carlos O.passos
+RA: 82510149
+Curso: Engenharia de Software
+Semestre: 3°
+Bairro: Vila Nova Curuça
+Se Trabalha: Não trabalho
+Objetivo: Crescer na área 
