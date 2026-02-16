@@ -1,7 +1,0 @@
-Nome: Gabriel
-RA: 825128943
-Curso: Engenharia de Software
-Semestre: 3°
-Bairro: Bosque Maia
-Se Trabalha: Trabalo com suporte de software 
-Objetivo: Crescer na área 
