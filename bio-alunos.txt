@@ -5,3 +5,11 @@ Semestre: 3°
 Bairro: Bosque Maia
 Se Trabalha: Trabalo com suporte de software 
 Objetivo: Crescer na área 
+
+Nome: Bryan
+RA: 825110147
+Curso: Engenharia de Software
+Semestre: 3°
+Bairro: Lavras
+Se Trabalha: Trabalho com suporte de T.I 
+Objetivo: Migrar do T.I para o Software e trabalhar de forma autônoma
