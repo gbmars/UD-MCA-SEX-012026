@@ -6,10 +6,18 @@ Bairro: Bosque Maia
 Se Trabalha: Trabalo com suporte de software 
 Objetivo: Crescer na área 
 
-Nome: Bryan
+Nome: João Carlos O.passos
+RA: 82510149
+Curso: Engenharia de Software
+Semestre: 3°
+Bairro: Vila Nova Curuça
+Se Trabalha: Não trabalho
+Objetivo: Crescer na área
+
+Nome: Bryan Lira Junqueira
 RA: 825110147
 Curso: Engenharia de Software
 Semestre: 3°
 Bairro: Lavras
-Se Trabalha: Trabalho com suporte de T.I 
-Objetivo: Migrar do T.I para o Software e trabalhar de forma autônoma
+Se Trabalha: Trabalho como suporte de T.I
+Objetivo: Migrar do T.I ao Sofware e me tornar autônomo
