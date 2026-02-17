@@ -21,3 +21,11 @@ Semestre: 3°
 Bairro: Lavras
 Se Trabalha: Trabalho como suporte de T.I
 Objetivo: Migrar do T.I ao Sofware e me tornar autônomo
+
+Nome: Felipe Cabral de Aquino
+RA: 82510945
+Curso: Engenharia de Software
+Semestre: 3°
+Bairro: Vila Formosa
+Se Trabalha: Trabalho como Auxiliar de infraestrutura e Tecnologia II
+Objetivo: Aprimorar ainda mais minhas habilidades e me tornar um Dev Backend.
