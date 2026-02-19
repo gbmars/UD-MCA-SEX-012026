@@ -29,3 +29,11 @@ Semestre: 3°
 Bairro: Vila Formosa
 Se Trabalha: Trabalho como Auxiliar de infraestrutura e Tecnologia II
 Objetivo: Aprimorar ainda mais minhas habilidades e me tornar um Dev Backend.
+
+Nome: Guilherme Fernandes Lima 
+RA: 82516937
+Curso: Engenharia de Software
+Semestre: 3°
+Bairro: Ponte Rasa
+Se Trabalha: Trabalho com administração na Porto Seguro
+Objetivo: Aprimorar ainda mais minhas habilidades e me tornar um Dev Backend.
