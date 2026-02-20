@@ -37,3 +37,11 @@ Semestre: 3°
 Bairro: Ponte Rasa
 Se Trabalha: Trabalho com administração na Porto Seguro
 Objetivo: Aprimorar ainda mais minhas habilidades e me tornar um Dev Backend.
+
+Nome: Joanna D'Alessandro
+RA: 824118991
+Curso: Sistemas de Informação
+Semestre: 6°
+Bairro: Penha
+Se Trabalha: Estagio em Análise de Dados e Processos de Risco
+Objetivo: Ser efetivada no estágio e seguir carreira em Análise de Dados
