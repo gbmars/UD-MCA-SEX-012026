@@ -1,1 +1,1 @@
-file 1
+arquivo 1
