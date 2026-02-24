@@ -8,7 +8,7 @@ let objetos = ['Relógio de parede','Guarda-chuva','Xícara de café','Cadeira d
         ,objetos[7],',',objetos[11],',', objetos[15],',', objetos[18],',', objetos[20]);
 
 //Qual elemento está na última posição?
-    console.log(objetos[18]);
+    console.log(objetos[19]);
 
 //Quantos elementos existem no array?
     console.log(objetos.length);
