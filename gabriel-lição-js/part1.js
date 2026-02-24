@@ -1,6 +1,8 @@
-let objetos = ['Relógio de parede','Guarda-chuva','Xícara de café','Cadeira de madeira','Chave de fenda',
-    'Travesseiro','Garrafa de vidro','Mochila','Grampeador','Escova de dentes','Lanterna','Caderno de anotações',
-    'Pneu de carro','Tesoura','Vaso de plantas','Teclado de computador','Panela','Sabonete','Óculos de sol','Controle remoto'
+let objetos = ['Smartphon','Notebook','Grampeador','pendrive',
+'Calculadora','Abajur','Espelho','Relógio de parede','Almofada',
+'Vaso de flores','Batedeira','Saca-rolhas',
+'Frigideira','Garrafa térmica','Espátula','Guarda-chuva',
+'Cadeado','Lanterna','Óculos de sol','Mochila'
 ];
 
 //Elementos de posição 0, 7, 11, 15, 18 e 20
@@ -15,7 +17,7 @@ let objetos = ['Relógio de parede','Guarda-chuva','Xícara de café','Cadeira d
 
 //Adicionar um novo objeto no array
 
-objetos.push('Hamburguer');
+objetos.push('Bússola');
 
 //Mostrar todos os objetos do array usando um for
 
