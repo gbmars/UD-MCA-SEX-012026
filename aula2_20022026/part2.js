@@ -1,8 +1,8 @@
 let meu_obj = {
     nome:'Máscara de Cílios',
     cor:'Preto',
-    preço:'R$ 99,90',
-    estoque:'72'
+    preço: 99.90,
+    estoque: 72
 };
 
 //Como acessar nome do objeto?
