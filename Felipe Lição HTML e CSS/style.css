@@ -1,19 +1,4 @@
-@keyframes mudaCorFundo {
-  0% { background-color: #1a2a6c; }   /* Cor inicial (Ex: Azul escuro) */
-  50% { background-color: #b21f1f; }  /* Cor do meio (Ex: Vermelho escuro) */
-  100% { background-color: #1a2a6c; } /* Volta para a cor inicial */
-}
 
-@keyframes apareceTexto {
-  0% { 
-    opacity: 0; 
-    transform: translateY(20px); /* Opcional: faz o texto subir um pouquinho */
-  }
-  100% { 
-    opacity: 1; 
-    transform: translateY(0); 
-  }
-}
 
 
 body {
@@ -37,26 +22,65 @@ header {
 }
 
 main {
+    display: flex;
+    flex-direction: column;
     margin: 100px;
     flex: 1;
 }
 
+.sec1{
+    animation: corFundo 2s ease-in forwards;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    padding: 100px;
+}
+
+.sec2{
+    animation: corFundo 2s ease-in forwards;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    padding: 100px;
+}
+
+.imagem {
+    width: 700px;
+    height: auto;
+    border-radius: 20px;
+    animation: apareceTexto 3s ease-in forwards;
+}
+
+
+
 .eu {
-    font-size: 50px;
+    margin-top: 10px;
+    font-size: 40px;
     width: 1000px;
     margin-left: auto;
+    animation: apareceTexto 5s ease-in forwards;
+    
 }
 
 .ra {
-    font-size: 30px;
-    width: 1000px;
-    margin: auto;
+    font-size: 20px;
+    animation: apareceTexto 4s ease-in forwards;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 .interesse {
-    font-size: 50px;
+    margin-top: 10px;
+    font-size: 40px;
     width: 1000px;
-    margin-right: auto;
+    animation: apareceTexto 5s ease-in forwards;
 }
 
 a, a:visited{
@@ -64,22 +88,61 @@ a, a:visited{
     text-decoration: none;
 }
 
-
 ul {
     display: flex;
-    list-style-type: none;
-    font-size: 25px;
-    justify-content:center;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 
+
 .github {
-    margin-right: 10px;
+    margin-right: 20px;
+    font-size: 25px;
+    width: 50px;
+    border: 2px solid white;
+    list-style-type: none;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: background-color 0.7s ease;
 }
+
+.github:hover{
+ background-color: rgb(1, 0, 63);
+}
+
 .instagram {
-    margin-right: 10px;
+    margin-right: 20px;
+    font-size: 25px;
+    width: 50px;
+    border: 2px solid white;
+    list-style-type: none;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: background-color 0.7s ease;
+}
+
+.instagram:hover{
+    background-color: rgb(141, 58, 141);
+}
+
+.linkedin {
+   margin-right: 10px;
+    font-size: 25px;
+    width: 50px;
+    border: 2px solid white;
+    list-style-type: none;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: background-color 0.7s ease;
+}
+
+.linkedin:hover{
+    background-color: #0072b1;
 }
 
 footer {
     background-color: black;
 }
+
 
