@@ -51,7 +51,7 @@ main {
 }
 
 .imagem {
-    width: 700px;
+    width: 600px;
     height: auto;
     border-radius: 20px;
     animation: apareceTexto 3s ease-in forwards;
@@ -63,7 +63,6 @@ main {
     margin-top: 10px;
     font-size: 40px;
     width: 1000px;
-    margin-left: auto;
     animation: apareceTexto 5s ease-in forwards;
     
 }
