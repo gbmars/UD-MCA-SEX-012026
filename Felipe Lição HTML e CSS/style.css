@@ -115,6 +115,13 @@ a {
     text-decoration: none;
 }
 
+.header{
+    display: flex;
+    gap: 60%;
+    margin: auto;
+
+}
+
 ul {
     display: flex;
     text-align: center;
