@@ -3,7 +3,7 @@ body {
         }
 
         h1 {
-            color: yellow !important;
+            color: white;
         }body {
             font-family: Arial;
             background-color: #f4f4f4;
@@ -11,6 +11,10 @@ body {
 
         header {
             background-color: #003366;
+            background-image: url('ft.jpg');
+            background-size: cover;
+            background-position: center;
+            height: 100px;
             color: white;
             padding: 20px;
             text-align: center;
