@@ -1,38 +1,83 @@
 body {
-            background-color: #f0f0f0;
+             background-color: #f7def8b6;
+             font-family: 'Arial';
         }
 
         h1 {
             color: white;
-        }body {
-            font-family: Arial;
-            background-color: #f4f4f4;
+            text-align: center;
+            font-family: 'Verdana';
+            font-size: 37px;
         }
-
         header {
-            background-color: #003366;
-            background-image: url('ft.jpg');
+            background-color: pink;
+            background-image: url('ft_1.jpg');
             background-size: cover;
             background-position: center;
             height: 100px;
-            color: white;
             padding: 20px;
-            text-align: center;
+            border-radius: 10px;
         }
 
         h2 {
-            color: #003366;
+            color: #4a02bd;
+            font-family: 'Verdana';
         }
 
-        ul {
-            background-color: white;
-            padding: 15px;
+        .foto {
+            text-align: center;
+        }
+
+        .imagem img {
+            border-radius: 10px;
+            border: 2px solid #4a02bd;
+        }
+        
+        .sobre_mim {
+            margin: 15px;
+        }
+
+        .texto {
+            padding: 20px;
+            border-radius: 20px;
+            background-color: #fdd8ff;
+        }
+
+        .SQL {
+            color: rgb(250, 92, 35);
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .interesses_curiosidades {
+            margin: 15px;
+        }
+
+        .lista_1 {
+            padding: 12px;
+            border-radius: 20px;
+            background-color: #fdd8ff;
+        }
+
+        .contatos {
+            margin: 15px;
+        }
+
+        .dois_contatos {
+            padding: 8px;
+            border-radius: 20px;
+            background-color: #fdd8ff;
+        }
+
+        /* Modifica a cor do link */
+        .apenas_linkedin a {
+            color: rgb(250, 92, 35);
+            font-weight: bold;
         }
 
         footer {
+            font-family: 'Verdana';
             text-align: center;
             margin-top: 20px;
-            font-size: 14px;
+            font-size: 14px;            
         }
-		
-		
